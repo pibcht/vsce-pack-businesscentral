@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.0]
+
 ### Added
 
 - Pi Pack • Core [pibcht.pack-core](https://marketplace.visualstudio.com/items?itemName=pibcht.pack-core)
