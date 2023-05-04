@@ -1,0 +1,22 @@
+{
+  "publisher": "pibcht",
+  "name": "pack-businesscentral",
+  "version": "0.0.0",
+  "engines": { "vscode": "^1.0.0" },
+  "categories": [ "Extension Packs" ],
+  "displayName": "Pi Pack • Business Central",
+  "description": "Must-have extensions for Business Central developement",
+  "icon": "icon.png",
+  "author": { "name": "Pi____b__ch_t", "email": "pi@bc.ht" },
+  "keywords": [
+    "AL", "Bundle", "Business Central", "Dev", "Fundamental", "Init", "Toolbox", 
+    "Optimize", "Powertools", "Productivity"
+  ],
+  "homepage": "https://github.com/pibcht/vsce-pack-businesscentral",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pibcht/vsce-pack-businesscentral.git"
+  },
+  "bugs": { "url": "https://github.com/pibcht/vsce-pack-businesscentral/issues" },
+  "extensionPack": []
+}
