@@ -1,6 +1,6 @@
 # Pi Pack • Business Central
 
-<div align="center"><img src="/extension/icon.png" title="Pi Pack • Business Central" alt="Pi Pack • Business Central"></div>
+<div align="center"><picture><img src="/extension/icon.png" title="Pi Pack • Business Central" alt="Pi Pack • Business Central"></picture></div>
 
 ## <picture><img alt="VS Code icon" src="assets/vscode.png"></picture> Extension Pack
 
