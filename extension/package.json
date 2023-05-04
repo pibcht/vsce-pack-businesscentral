@@ -2,7 +2,7 @@
   "publisher": "pibcht",
   "name": "pack-businesscentral",
   "version": "0.0.0",
-  "engines": { "vscode": "^1.0.0" },
+  "engines": { "vscode": "^1.77.0" },
   "categories": [ "Extension Packs" ],
   "displayName": "Pi Pack • Business Central",
   "description": "Must-have extensions for Business Central developement",
@@ -18,5 +18,5 @@
     "url": "https://github.com/pibcht/vsce-pack-businesscentral.git"
   },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-businesscentral/issues" },
-  "extensionPack": []
+  "extensionPack": [ "pibcht.pack-core" ]
 }
