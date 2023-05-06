@@ -9,8 +9,8 @@
   "icon": "icon.png",
   "author": { "name": "Pi____b__ch_t", "email": "pi@bc.ht" },
   "keywords": [
-    "AL", "Bundle", "Business Central", "Dev", "Fundamental", "Init", "Toolbox", 
-    "Optimize", "Powertools", "Productivity"
+    "AL", "Bundle", "Business Central", "Dev", "Fundamental", "Init", "Optimize", 
+    "Powertools", "Productivity", "Toolbox"
   ],
   "homepage": "https://github.com/pibcht/vsce-pack-businesscentral",
   "repository": {
