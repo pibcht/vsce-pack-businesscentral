@@ -12,6 +12,7 @@
     "AL", "Bundle", "Business Central", "Dev", "Fundamental", "Init", "Optimize", 
     "Powertools", "Productivity", "Toolbox"
   ],
+  "galleryBanner": { "color": "#314159", "theme": "dark" },
   "homepage": "https://github.com/pibcht/vsce-pack-businesscentral",
   "repository": {
     "type": "git",
