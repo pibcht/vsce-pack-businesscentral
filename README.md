@@ -12,7 +12,10 @@
 - [AL Language extension for Microsoft Dynamics 365 Business Central](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al)
 - [AL Object ID Ninja](https://marketplace.visualstudio.com/items?itemName=vjeko.vjeko-al-objid)
 - [AL Pragma Explorer](https://marketplace.visualstudio.com/items?itemName=vjeko.al-pragma-explorer)
+- [AL Test Runner](https://marketplace.visualstudio.com/items?itemName=jamespearson.al-test-runner)
 - [AZ AL Dev Tools/AL Code Outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
+- [BusinessCentral.LinterCop](https://marketplace.visualstudio.com/items?itemName=stefanmaron.businesscentral-lintercop)
+- [Prism for AL Connector](https://marketplace.visualstudio.com/items?itemName=statical.prism-al)
 - [waldo's CRS AL Language Extension](https://marketplace.visualstudio.com/items?itemName=waldo.crs-al-language-extension)
 
 ### Liens

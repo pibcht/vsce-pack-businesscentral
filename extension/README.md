@@ -24,9 +24,21 @@ Manage object IDs in multi-user environments with mind-boggling simplicity.
 
 Presents and manages precompiler conditional directives for AL Language workspaces
 
+### AL Test Runner [jamespearson.al-test-runner](https://marketplace.visualstudio.com/items?itemName=jamespearson.al-test-runner)
+
+Test runner for AL tests for Business Central development
+
 ### AZ AL Dev Tools/AL Code Outline [andrzejzwierzchowski.al-code-outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
 
 AZ AL Development Tools: AL code outline, object browser, object creators
+
+### BusinessCentral.LinterCop [stefanmaron.businesscentral-lintercop](https://marketplace.visualstudio.com/items?itemName=stefanmaron.businesscentral-lintercop)
+
+Provides Linting for the AL Language (Business Central)
+
+### Prism for AL Connector [statical.prism-al](https://marketplace.visualstudio.com/items?itemName=statical.prism-al)
+
+Seamless navigation between Prism for AL and Visual Studio Code
 
 ### waldo's CRS AL Language Extension [waldo.crs-al-language-extension](https://marketplace.visualstudio.com/items?itemName=waldo.crs-al-language-extension)
 
