@@ -28,6 +28,10 @@ Presents and manages precompiler conditional directives for AL Language workspac
 
 Test runner for AL tests for Business Central development
 
+### AL Variable Helper [rasmus.al-var-helper](https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper)
+
+Intellisense to assign correct variable names in AL.
+
 ### AZ AL Dev Tools/AL Code Outline [andrzejzwierzchowski.al-code-outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
 
 AZ AL Development Tools: AL code outline, object browser, object creators
@@ -35,6 +39,10 @@ AZ AL Development Tools: AL code outline, object browser, object creators
 ### BusinessCentral.LinterCop [stefanmaron.businesscentral-lintercop](https://marketplace.visualstudio.com/items?itemName=stefanmaron.businesscentral-lintercop)
 
 Provides Linting for the AL Language (Business Central)
+
+### Docker [ms-azuretools.vscode-docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+
+Makes it easy to create, manage, and debug containerized applications.
 
 ### Prism for AL Connector [statical.prism-al](https://marketplace.visualstudio.com/items?itemName=statical.prism-al)
 

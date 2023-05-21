@@ -13,8 +13,10 @@
 - [AL Object ID Ninja](https://marketplace.visualstudio.com/items?itemName=vjeko.vjeko-al-objid)
 - [AL Pragma Explorer](https://marketplace.visualstudio.com/items?itemName=vjeko.al-pragma-explorer)
 - [AL Test Runner](https://marketplace.visualstudio.com/items?itemName=jamespearson.al-test-runner)
+- [AL Variable Helper](https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper)
 - [AZ AL Dev Tools/AL Code Outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
 - [BusinessCentral.LinterCop](https://marketplace.visualstudio.com/items?itemName=stefanmaron.businesscentral-lintercop)
+- [Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
 - [Prism for AL Connector](https://marketplace.visualstudio.com/items?itemName=statical.prism-al)
 - [waldo's CRS AL Language Extension](https://marketplace.visualstudio.com/items?itemName=waldo.crs-al-language-extension)
 
