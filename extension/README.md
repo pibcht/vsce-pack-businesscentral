@@ -12,6 +12,10 @@ Fundamental extensions for all uses
 
 Development tools for Dynamics 365 Business Central
 
+### AL Object ID Ninja [vjeko.vjeko-al-objid](https://marketplace.visualstudio.com/items?itemName=vjeko.vjeko-al-objid)
+
+Manage object IDs in multi-user environments with mind-boggling simplicity.
+
 ### waldo's CRS AL Language Extension [waldo.crs-al-language-extension](https://marketplace.visualstudio.com/items?itemName=waldo.crs-al-language-extension)
 
 Make working with the (Dynamics NAV / 365) AL Language easier and more efficient.

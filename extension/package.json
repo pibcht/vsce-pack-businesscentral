@@ -19,5 +19,8 @@
     "url": "https://github.com/pibcht/vsce-pack-businesscentral.git"
   },
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-businesscentral/issues" },
-  "extensionPack": [ "pibcht.pack-core", "ms-dynamics-smb.al", "waldo.crs-al-language-extension" ]
+  "extensionPack": [
+    "pibcht.pack-core", "ms-dynamics-smb.al", "vjeko.vjeko-al-objid", 
+    "waldo.crs-al-language-extension"
+  ]
 }
