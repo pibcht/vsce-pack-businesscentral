@@ -22,7 +22,8 @@
   "extensionPack": [
     "pibcht.pack-core", "andrzejzwierzchowski.al-code-outline", 
     "davidfeldhoff.al-codeactions", "jamespearson.al-test-runner", 
-    "ms-dynamics-smb.al", "statical.prism-al", "vjeko.al-pragma-explorer", 
+    "ms-dynamics-smb.al", "statical.prism-al", 
+    "stefanmaron.businesscentral-lintercop", "vjeko.al-pragma-explorer", 
     "vjeko.vjeko-al-objid", "waldo.crs-al-language-extension"
   ]
 }

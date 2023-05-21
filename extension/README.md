@@ -32,6 +32,10 @@ Test runner for AL tests for Business Central development
 
 AZ AL Development Tools: AL code outline, object browser, object creators
 
+### BusinessCentral.LinterCop [stefanmaron.businesscentral-lintercop](https://marketplace.visualstudio.com/items?itemName=stefanmaron.businesscentral-lintercop)
+
+Provides Linting for the AL Language (Business Central)
+
 ### Prism for AL Connector [statical.prism-al](https://marketplace.visualstudio.com/items?itemName=statical.prism-al)
 
 Seamless navigation between Prism for AL and Visual Studio Code
