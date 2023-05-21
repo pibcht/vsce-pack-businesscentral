@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0]
+
 ### Added
 
 - AL CodeActions [davidfeldhoff.al-codeactions](https://marketplace.visualstudio.com/items?itemName=davidfeldhoff.al-codeactions)
