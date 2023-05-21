@@ -7,6 +7,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0]
+
+### Added
+
+- AL CodeActions [davidfeldhoff.al-codeactions](https://marketplace.visualstudio.com/items?itemName=davidfeldhoff.al-codeactions)
+- AL Language extension for Microsoft Dynamics 365 Business Central [ms-dynamics-smb.al](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al)
+- AL Object ID Ninja [vjeko.vjeko-al-objid](https://marketplace.visualstudio.com/items?itemName=vjeko.vjeko-al-objid)
+- AL Pragma Explorer [vjeko.al-pragma-explorer](https://marketplace.visualstudio.com/items?itemName=vjeko.al-pragma-explorer)
+- AZ AL Dev Tools/AL Code Outline [andrzejzwierzchowski.al-code-outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
+- waldo's CRS AL Language Extension [waldo.crs-al-language-extension](https://marketplace.visualstudio.com/items?itemName=waldo.crs-al-language-extension)
+
 ## [1.0.0]
 
 ### Added
