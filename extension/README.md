@@ -36,6 +36,10 @@ AZ AL Development Tools: AL code outline, object browser, object creators
 
 Provides Linting for the AL Language (Business Central)
 
+### Docker [ms-azuretools.vscode-docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker)
+
+Makes it easy to create, manage, and debug containerized applications.
+
 ### Prism for AL Connector [statical.prism-al](https://marketplace.visualstudio.com/items?itemName=statical.prism-al)
 
 Seamless navigation between Prism for AL and Visual Studio Code

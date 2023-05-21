@@ -2,28 +2,54 @@
   "publisher": "pibcht",
   "name": "pack-businesscentral",
   "version": "1.2.0",
-  "engines": { "vscode": "^1.77.0" },
-  "categories": [ "Extension Packs" ],
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
   "displayName": "Pi Pack • Business Central",
   "description": "Must-have extensions for Business Central developement",
   "icon": "icon.png",
-  "author": { "name": "Pi____b__ch_t", "email": "pi@bc.ht" },
+  "author": {
+    "name": "Pi____b__ch_t",
+    "email": "pi@bc.ht"
+  },
   "keywords": [
-    "AL", "Bundle", "Business Central", "Dev", "Fundamental", "Init", "Optimize", 
-    "Powertools", "Productivity", "Toolbox"
+    "AL",
+    "Bundle",
+    "Business Central",
+    "Dev",
+    "Fundamental",
+    "Init",
+    "Optimize",
+    "Powertools",
+    "Productivity",
+    "Toolbox"
   ],
-  "galleryBanner": { "color": "#314159", "theme": "dark" },
+  "galleryBanner": {
+    "color": "#314159",
+    "theme": "dark"
+  },
   "homepage": "https://github.com/pibcht/vsce-pack-businesscentral",
   "repository": {
     "type": "git",
     "url": "https://github.com/pibcht/vsce-pack-businesscentral.git"
   },
-  "bugs": { "url": "https://github.com/pibcht/vsce-pack-businesscentral/issues" },
+  "bugs": {
+    "url": "https://github.com/pibcht/vsce-pack-businesscentral/issues"
+  },
   "extensionPack": [
-    "pibcht.pack-core", "andrzejzwierzchowski.al-code-outline", 
-    "davidfeldhoff.al-codeactions", "jamespearson.al-test-runner", 
-    "ms-dynamics-smb.al", "statical.prism-al", 
-    "stefanmaron.businesscentral-lintercop", "vjeko.al-pragma-explorer", 
-    "vjeko.vjeko-al-objid", "waldo.crs-al-language-extension"
+    "pibcht.pack-core",
+    "andrzejzwierzchowski.al-code-outline",
+    "davidfeldhoff.al-codeactions",
+    "jamespearson.al-test-runner",
+    "ms-azuretools.vscode-docker",
+    "ms-dynamics-smb.al",
+    "statical.prism-al",
+    "stefanmaron.businesscentral-lintercop",
+    "vjeko.al-pragma-explorer",
+    "vjeko.vjeko-al-objid",
+    "waldo.crs-al-language-extension"
   ]
 }
