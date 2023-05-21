@@ -32,6 +32,10 @@ Test runner for AL tests for Business Central development
 
 AZ AL Development Tools: AL code outline, object browser, object creators
 
+### Prism for AL Connector [statical.prism-al](https://marketplace.visualstudio.com/items?itemName=statical.prism-al)
+
+Seamless navigation between Prism for AL and Visual Studio Code
+
 ### waldo's CRS AL Language Extension [waldo.crs-al-language-extension](https://marketplace.visualstudio.com/items?itemName=waldo.crs-al-language-extension)
 
 Make working with the (Dynamics NAV / 365) AL Language easier and more efficient.
