@@ -8,6 +8,10 @@ Must-have extensions for Business Central developement
 
 Fundamental extensions for all uses
 
+### AL CodeActions [davidfeldhoff.al-codeactions](https://marketplace.visualstudio.com/items?itemName=davidfeldhoff.al-codeactions)
+
+Adds codeactions to the AL language
+
 ### AL Language extension for Microsoft Dynamics 365 Business Central [ms-dynamics-smb.al](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al)
 
 Development tools for Dynamics 365 Business Central
