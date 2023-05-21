@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- AL Test Runner [jamespearson.al-test-runner](https://marketplace.visualstudio.com/items?itemName=jamespearson.al-test-runner)
+
 ## [1.1.0]
 
 ### Added

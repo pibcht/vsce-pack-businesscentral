@@ -24,6 +24,10 @@ Manage object IDs in multi-user environments with mind-boggling simplicity.
 
 Presents and manages precompiler conditional directives for AL Language workspaces
 
+### AL Test Runner [jamespearson.al-test-runner](https://marketplace.visualstudio.com/items?itemName=jamespearson.al-test-runner)
+
+Test runner for AL tests for Business Central development
+
 ### AZ AL Dev Tools/AL Code Outline [andrzejzwierzchowski.al-code-outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
 
 AZ AL Development Tools: AL code outline, object browser, object creators

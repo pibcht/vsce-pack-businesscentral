@@ -21,8 +21,8 @@
   "bugs": { "url": "https://github.com/pibcht/vsce-pack-businesscentral/issues" },
   "extensionPack": [
     "pibcht.pack-core", "andrzejzwierzchowski.al-code-outline", 
-    "davidfeldhoff.al-codeactions", "ms-dynamics-smb.al", 
-    "vjeko.al-pragma-explorer", "vjeko.vjeko-al-objid", 
+    "davidfeldhoff.al-codeactions", "jamespearson.al-test-runner", 
+    "ms-dynamics-smb.al", "vjeko.al-pragma-explorer", "vjeko.vjeko-al-objid", 
     "waldo.crs-al-language-extension"
   ]
 }
