@@ -20,6 +20,10 @@ Development tools for Dynamics 365 Business Central
 
 Manage object IDs in multi-user environments with mind-boggling simplicity.
 
+### AL Pragma Explorer [vjeko.al-pragma-explorer](https://marketplace.visualstudio.com/items?itemName=vjeko.al-pragma-explorer)
+
+Presents and manages precompiler conditional directives for AL Language workspaces
+
 ### AZ AL Dev Tools/AL Code Outline [andrzejzwierzchowski.al-code-outline](https://marketplace.visualstudio.com/items?itemName=andrzejzwierzchowski.al-code-outline)
 
 AZ AL Development Tools: AL code outline, object browser, object creators
