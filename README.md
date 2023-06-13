@@ -11,6 +11,7 @@
 - [AL CodeActions](https://marketplace.visualstudio.com/items?itemName=davidfeldhoff.al-codeactions)
 - [AL Language extension for Microsoft Dynamics 365 Business Central](https://marketplace.visualstudio.com/items?itemName=ms-dynamics-smb.al)
 - [AL Object ID Ninja](https://marketplace.visualstudio.com/items?itemName=vjeko.vjeko-al-objid)
+- [AL Packages](https://marketplace.visualstudio.com/items?itemName=sergiogp1.al-packages)
 - [AL Pragma Explorer](https://marketplace.visualstudio.com/items?itemName=vjeko.al-pragma-explorer)
 - [AL Test Runner](https://marketplace.visualstudio.com/items?itemName=jamespearson.al-test-runner)
 - [AL Variable Helper](https://marketplace.visualstudio.com/items?itemName=rasmus.al-var-helper)

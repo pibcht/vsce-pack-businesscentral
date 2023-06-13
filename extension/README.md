@@ -20,6 +20,10 @@ Development tools for Dynamics 365 Business Central
 
 Manage object IDs in multi-user environments with mind-boggling simplicity.
 
+### AL Packages [sergiogp1.al-packages](https://marketplace.visualstudio.com/items?itemName=sergiogp1.al-packages)
+
+AL Packages allows you to download symbols in 10 seconds of any Business Central version without having to connect to an online Sandbox or to an On-Premise environment.
+
 ### AL Pragma Explorer [vjeko.al-pragma-explorer](https://marketplace.visualstudio.com/items?itemName=vjeko.al-pragma-explorer)
 
 Presents and manages precompiler conditional directives for AL Language workspaces
