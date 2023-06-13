@@ -1,7 +1,7 @@
 {
   "publisher": "pibcht",
   "name": "pack-businesscentral",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "engines": { "vscode": "^1.77.0" },
   "categories": [ "Extension Packs" ],
   "displayName": "Pi Pack • Business Central",
@@ -23,8 +23,8 @@
     "pibcht.pack-core", "andrzejzwierzchowski.al-code-outline", 
     "davidfeldhoff.al-codeactions", "jamespearson.al-test-runner", 
     "ms-azuretools.vscode-docker", "ms-dynamics-smb.al", "rasmus.al-var-helper", 
-    "statical.prism-al", "stefanmaron.businesscentral-lintercop", 
-    "vjeko.al-pragma-explorer", "vjeko.vjeko-al-objid", 
-    "waldo.crs-al-language-extension"
+    "sergiogp1.al-packages", "statical.prism-al", 
+    "stefanmaron.businesscentral-lintercop", "vjeko.al-pragma-explorer", 
+    "vjeko.vjeko-al-objid", "waldo.crs-al-language-extension"
   ]
 }
